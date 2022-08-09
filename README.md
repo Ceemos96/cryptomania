@@ -9,7 +9,6 @@ associated with each cryptocurrency. It also features the latest news in the cry
 - css
 - javascript
 - Linter
-- Webpack
 - JSON
 - Gitflow
 - Babel
@@ -59,6 +58,9 @@ Feel free to check the [issues page](https://github.com/Ceemos96/cryptomania/iss
 # Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgements
+- Much appreciation to [adrianhajdin](https://gist.github.com/adrianhajdin)
 
 ## 📝 License
 
